@@ -6,7 +6,7 @@ You have to have python 3 installed
 
 ### Clone repository
 ```bash
-git clone git@github.com:thorinaboenke/django-react-note-app-frontend.git
+git clone git@github.com:thorinaboenke/django-react-note-app-backend.git
 cd backend
 ```
 
@@ -37,7 +37,7 @@ Urls:
 ## Frontend
 ### clone repository
 ```bash
-git clone git@github.com:thorinaboenke/django-react-note-app-backend.git
+git clone git@github.com:thorinaboenke/django-react-note-app-frontend.git
 cd Frontend
 ```
 
