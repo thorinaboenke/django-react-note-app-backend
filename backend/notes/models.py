@@ -6,5 +6,5 @@ class Note(models.Model):
    published = models.DateTimeField(auto_now_add=True)
    
 # default attribute to be displayed
-   def _str_(self):
+   def __str__(self) -> str:
      return self.text
