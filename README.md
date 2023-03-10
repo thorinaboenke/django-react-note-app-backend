@@ -20,7 +20,7 @@ pip install django djangorestframework django-cors-headers
 
 ### Start the server
 ```bash
-$ python manage.py runserver
+python manage.py runserver
 ```
 
 App is running on localhost:8000
