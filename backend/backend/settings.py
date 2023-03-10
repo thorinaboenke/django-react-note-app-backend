@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)t@44e22^$d3jvy_tvt$ry9a0x5-j8&$#k7n-&mdbr_!+t5ko+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -128,4 +129,13 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # whitelist the frontend app for cross origin ressource sharing
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
+]
+
+CORS_ALLOW_METHODS = [
+    "DELETE",
+    "GET",
+    "OPTIONS",
+    "PATCH",
+    "POST",
+    "PUT",
 ]
