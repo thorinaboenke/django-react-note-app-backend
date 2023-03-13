@@ -86,7 +86,7 @@ Image recognition to detect and flag inappropriate or offensive images, hate sym
 These algorithms can be problematic in and of themselves; and depending on the training datasets might create false positives or replicate racial and gender bias.
 
 ### Moderation 🕵️
-Have moderators to review content posted on the app (spot checks, and when flagged as per point 2 and 3) and take action if necessary (removing content, banning users etc.).
+Have moderators to review content posted on the app (spot checks, and when flagged as per point 2 and 3) and take action if necessary (prevent publishing, remove content, ban users etc.).
 
 ### Trigger Warnings  ⚠️
 For discussing sensitive and potentially triggering topics (for example self-harm), encourage users to add trigger warnings to their posts and/or to use 'spoilers' formatting.
@@ -95,4 +95,4 @@ For discussing sensitive and potentially triggering topics (for example self-har
 Be transparent about the measures taken (for example in case content is filtered with algorithms, if use patterns are tracked etc.), no showdow-banning.
 
 ### Policies ⚖️
-Have policies and an action plan on legal issues in place before something occurs.
+Have policies and an action plan on legal issues in place before an incident occurs.
