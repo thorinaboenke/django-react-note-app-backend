@@ -68,13 +68,13 @@ Ultimately the responsibility lies with the platform concerning illegal content 
 
 # How can you ensure that the application stays a safe space?
 
-## Community Guidelines 📝
+### Community Guidelines 📝
 Have clear community guidelines, that not only state what content and behaviours in not accepted, but also encourage positive values like supportivness and mindfulness towards others, inclusive language, creating a safe(r) space together. Users need to agree to and accept these guidelines before posting content.
 
-## Possiblity to report/flag problematic content 🚩
+### Possiblity to report/flag problematic content 🚩
 Implement features so that users can report harmful or inappropriate content, and encourage them to do so.
 
-## AI assisted filtering 💻
+### AI assisted filtering 💻
 Filter content for text patterns to prevent doxxing/privacy breaches.
 
 Natural Language processing tools, machine learning to identify and flag threats, hate speech..
@@ -85,14 +85,14 @@ Image recognition to detect and flag inappropriate or offensive images, hate sym
 
 These algorithms can be problematic in and of themselves; and depending on the training datasets might create false positives or replicate racial and gender bias.
 
-## Moderation 🕵️
+### Moderation 🕵️
 Have moderators to review content posted on the app (spot checks, and when flagged as per point 2 and 3) and take action if necessary (removing content, banning users etc.).
 
-## Trigger Warnings  ⚠️
+### Trigger Warnings  ⚠️
 For discussing sensitive and potentially triggering topics (for example self-harm), encourage users to add trigger warnings to their posts and/or to use 'spoilers' formatting.
 
-## Tranparency 🔍
+### Transparency 🔍
 Be transparent about the measures taken (for example in case content is filtered with algorithms, if use patterns are tracked etc.), no showdow-banning.
 
-## Policies ⚖️
+### Policies ⚖️
 Have policies and an action plan on legal issues in place before something occurs.
