@@ -34,7 +34,7 @@ Urls:
 ![image](https://user-images.githubusercontent.com/68156005/224311952-ed805fa3-ceed-4bda-be27-fc7b53b33e6d.png)
 
 ### Testing
-to run teste in folder /backend run
+to run test in folder /backend run
 ```bash
 coverage run --omit='*/.venv/*' manage.py test
 ```
@@ -43,6 +43,9 @@ to check test coverage run
 coverage html
 ```
 a folder htmlcov will be created containing an index.html file. open index.html in browser to inspect test coverage
+
+![image](https://user-images.githubusercontent.com/68156005/225372531-c6dd9daf-5ccb-4926-b806-fc2c4e1094d5.png)
+
 
 ## Frontend
 ### clone repository
