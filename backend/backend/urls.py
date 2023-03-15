@@ -19,11 +19,13 @@ from rest_framework import routers
 from notes import views  
 
 
+
 # router enables performing crud operations
 router = routers.DefaultRouter()                   
 router.register(r'notes', views.NoteView, 'note') 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include(router.urls))
+    path('api/', include(router.urls)),
+    path('example/', views.note_view)
 ]
