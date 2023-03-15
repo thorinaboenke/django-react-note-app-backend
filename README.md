@@ -15,7 +15,7 @@ cd backend
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-pip install django djangorestframework django-cors-headers
+pip install django djangorestframework django-cors-headers coverage
 ```
 
 ### Start the server
@@ -33,6 +33,16 @@ Urls:
 
 ![image](https://user-images.githubusercontent.com/68156005/224311952-ed805fa3-ceed-4bda-be27-fc7b53b33e6d.png)
 
+### Testing
+to run teste in folder /backend run
+```bash
+coverage run --omit='*/.venv/*' manage.py test
+```
+to check test coverage run
+```bash
+coverage html
+```
+a folder htmlcov will be created containing an index.html file. open index.html in browser to inspect test coverage
 
 ## Frontend
 ### clone repository
