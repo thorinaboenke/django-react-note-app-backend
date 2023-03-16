@@ -63,7 +63,7 @@ npm run
 App is running on localhost:3000
 
 ### Usage
-Fill a not (140 characters max.) in the text field, click 'Post my Note'
+Fill a note (140 characters max.) in the text field, click 'Post my Note'
 
 Check the Box "I don't like coffee" to hide all notes containing the word coffee.
 
